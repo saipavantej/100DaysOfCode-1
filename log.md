@@ -6,5 +6,5 @@
           
 ## Logs  
     
-| Day | Date | Worked | Learned | Time | Link to work |
-| --- | --- | --- | --- | --- | --- | --- | 
+| Day | Date | Worked | Learned | Time | Link to work 
+| --- | --- | --- | --- | --- |---
